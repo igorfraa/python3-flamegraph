@@ -5,7 +5,7 @@ INSTALL:
 
 Simply run::
 
-  pip install git+https://github.com/evanhempel/python-flamegraph.git
+  pip install git+https://github.com/igorfraa/python3-flamegraph.git
 
 USAGE:
 ------
