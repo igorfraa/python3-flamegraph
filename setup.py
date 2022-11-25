@@ -10,7 +10,7 @@ setup(
     long_description = open('README.rst').read(),
     license = 'UNLICENSE',
     keywords = 'profiler flamegraph',
-    url = 'https://github.com/evanhempel/python-flamegraph',
+    url = 'https://github.com/igorfraa/python3-flamegraph',
     classifiers=[
       'Development Status :: 3 - Alpha',
       'Environment :: Console',
